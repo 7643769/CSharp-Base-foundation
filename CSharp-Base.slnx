@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="CSharp-Base-Project1/CSharp-Base-Project1.csproj" />
   <Project Path="exercise枚举/exercise枚举.csproj" Id="a08aef53-bfba-44ff-b9e3-b0730b741fa8" />
+  <Project Path="Lesson2一维数组/Lesson2一维数组.csproj" Id="69a73366-d152-42db-aabb-e1bbc0444158" />
 </Solution>
