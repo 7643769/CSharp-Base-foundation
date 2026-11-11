@@ -93,6 +93,8 @@
             }
             */
             #endregion
+            #region 获取输入，存入数组并打印
+            /*
             int[] d = new int[10];
             for (int i = 0; i < d.Length; i++)
             {
@@ -113,6 +115,34 @@
             Console.WriteLine("数学最高分：" + d.Max());
             Console.WriteLine("数学最低分：" + d.Min());
             Console.WriteLine("数学平均分：" + d.Average());
+            */
+            #endregion
+            string[] e = new string[25];
+            
+            for (int i = 0; i < e.Length; i++)
+            {
+                
+                    if (i % 2 != 0)
+                    {
+                        e[i] = "实";
+                        
+                    }
+                    else if (i % 2 == 0 || i == 0)
+                    {
+                        e[i] = "虚";
+                        
+                    }
+                
+            }
+            for(int i = 0; i < e.Length; i++)
+            {
+                Console.Write(e[i] + " ");
+                if((i+1) % 5 == 0)
+                {
+                    Console.WriteLine();
+                }
+            }
+
         }
     }
             
