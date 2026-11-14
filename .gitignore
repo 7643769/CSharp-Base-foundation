@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/特殊引用类型string
+/Lesson4值类型和引用类型/Program.cs
