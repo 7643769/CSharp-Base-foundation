@@ -6,4 +6,6 @@
   <Project Path="Lesson2一维数组/Lesson2一维数组.csproj" Id="69a73366-d152-42db-aabb-e1bbc0444158" />
   <Project Path="Lesson3二维数组/Lesson3二维数组.csproj" Id="1b31d20b-65d9-4613-aebc-db00cea3d53d" />
   <Project Path="Lesson4值类型和引用类型/Lesson4值类型和引用类型.csproj" Id="93a2d7d3-e823-4458-b626-bb48a4ff1cfc" />
+  <Project Path="函数/函数.csproj" Id="2d907384-e278-4610-a606-2108a8db8046" />
+  <Project Path="特殊引用类型string/特殊引用类型string.csproj" Id="550e47dd-c017-4267-90fc-d2fb62e3c96f" />
 </Solution>
