@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="CSharp-Base-Project1/CSharp-Base-Project1.csproj" />
   <Project Path="exerciseArray/exerciseArray.csproj" Id="2d0f406e-0e5b-4966-b6ec-1967bc411e20" />
+  <Project Path="exercise函数/exercise函数.csproj" Id="3929cec3-476f-4e96-b996-928967179e7e" />
   <Project Path="exercise数组/exercise数组.csproj" Id="4e930b42-36c3-4670-93f0-9fb5cd1632ff" />
   <Project Path="exercise枚举/exercise枚举.csproj" Id="a08aef53-bfba-44ff-b9e3-b0730b741fa8" />
   <Project Path="Lesson2一维数组/Lesson2一维数组.csproj" Id="69a73366-d152-42db-aabb-e1bbc0444158" />
