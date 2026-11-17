@@ -12,4 +12,5 @@
   <Project Path="函数重载/函数重载.csproj" Id="4dfb3f76-fc8f-431a-a544-8062621faa82" />
   <Project Path="变长参数和参数默认值/变长参数和参数默认值.csproj" Id="1442b91f-51f5-4d48-af7d-296d348509d6" />
   <Project Path="特殊引用类型string/特殊引用类型string.csproj" Id="550e47dd-c017-4267-90fc-d2fb62e3c96f" />
+  <Project Path="递归函数/递归函数.csproj" Id="e521c3bb-29f4-41f8-841a-f28c5933f958" />
 </Solution>
