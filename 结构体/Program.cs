@@ -1,5 +1,6 @@
 ﻿namespace 结构体
 {
+    //结构体
     #region 练习题一
     //struct Player
     //{
