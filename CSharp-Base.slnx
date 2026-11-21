@@ -14,5 +14,6 @@
   <Project Path="排序初探/排序初探.csproj" Id="d70788bb-cc92-4683-a4c6-16578542e9e7" />
   <Project Path="特殊引用类型string/特殊引用类型string.csproj" Id="550e47dd-c017-4267-90fc-d2fb62e3c96f" />
   <Project Path="结构体/结构体.csproj" Id="4a654e72-60ad-4e20-8206-6a241833fdb4" />
+  <Project Path="选择排序/选择排序.csproj" Id="1dbf0839-be85-4d0a-8255-a25fc401671c" />
   <Project Path="递归函数/递归函数.csproj" Id="e521c3bb-29f4-41f8-841a-f28c5933f958" />
 </Solution>
